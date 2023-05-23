@@ -2,7 +2,7 @@
 
 I'm a junior AI Engineer who has a strong interest in Computer Vision.
 
- 🔭 I’m currently working on the Udacity's Machine Learning Fundamentals Nanadegree Program related projects.
+ 🔭 I’m currently working on the Udacity's Machine Learning Fundamentals Nanodegree Program related projects.
  
  🌱 I’m currently learning ML and CV.
  
