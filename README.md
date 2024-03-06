@@ -1,12 +1,8 @@
 ### Hi there 👋
 
 I'm Myat Hsu Khaing.
-
- 🔭 I’m currently working on the Udacity's Machine Learning Fundamentals Nanodegree Program related projects.
  
- 🌱 I’m currently learning ML and CV.
- 
- 👯 I’m looking to collaborate on Computer Vision specialised projects.
+ 🌱 I’m currently learning Web Development.
  
  📫 How to reach me: www.linkedin.com/in/myat-hsu
  
