@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a junior AI Engineer who has a strong interest in Computer Vision.
+I'm Myat Hsu Khaing.
 
  🔭 I’m currently working on the Udacity's Machine Learning Fundamentals Nanodegree Program related projects.
  
