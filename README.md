@@ -2,7 +2,7 @@
 
 I'm Myat Hsu Khaing.
  
- 🌱 I am presently focused on learning web development and testing methodologies.
+ 🌱 I am presently focused on learning web development and Machine Learning algorithms.
  
  📫 How to reach me: www.linkedin.com/in/myat-hsu
  
