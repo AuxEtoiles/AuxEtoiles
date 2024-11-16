@@ -2,7 +2,7 @@
 
 I'm Myat Hsu Khaing.
  
- 🌱 I am presently focused on learning web development and Machine Learning algorithms.
+ 🌱 I am presently focused on ELV systems planning and learning Machine Learning algorithms.
  
  📫 How to reach me: www.linkedin.com/in/myat-hsu
  
