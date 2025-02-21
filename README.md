@@ -6,8 +6,6 @@ I'm Myat Hsu Khaing.
  
  📫 How to reach me: www.linkedin.com/in/myat-hsu
  
- ⚡ Fun fact: I love coding because I feel like I look good and smart when I'm working with a computer professionally.
- 
 <div align="center">
 
 |Introduction to IoT      |
