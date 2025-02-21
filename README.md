@@ -8,8 +8,8 @@ I'm Myat Hsu Khaing.
  
 <div align="center">
 
-|Introduction to IoT      |
-| :----------: |
+|Introduction to IoT|
+| :--------: |
 | <img src="https://images.credly.com/size/100x100/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png"/> |
 
 </div>
