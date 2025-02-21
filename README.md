@@ -12,6 +12,6 @@ I'm Myat Hsu Khaing.
 
 |Introduction to IoT      |
 | :----------: |
-| <img src="https://images.credly.com/size/340x340/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png"/> |
+| <img src="https://images.credly.com/size/150x150/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png"/> |
 
 </div>
