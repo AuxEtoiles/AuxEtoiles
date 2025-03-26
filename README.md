@@ -2,7 +2,7 @@
 
 I'm Myat Hsu Khaing.
  
- 🌱 I am presently focused in designing, configuring, maintaining ELV systems and learning Machine Learning algorithms.
+ 🌱 I am presently focused in Data Science and AI integrated developments.
  
  📫 How to reach me: www.linkedin.com/in/myat-hsu
  
