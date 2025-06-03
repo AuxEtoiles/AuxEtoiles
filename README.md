@@ -4,7 +4,7 @@ I'm Myat Hsu Khaing.
  
  🌱 I am presently focused in Data Science and ML model developments.
  
- 📫 How to reach me: https://linktr.ee/myat_hsu
+ This is my portfolio : https://linktr.ee/myat_hsu
  
 <div align="center">
 
